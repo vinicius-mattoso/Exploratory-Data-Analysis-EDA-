@@ -1,21 +1,15 @@
 <h1 align="center"> Exploratory-Data-Analysis-EDA </h1>
 
-![Linkedin](https://www.linkedin.com/in/vinicius-mattoso/)
+[Linkedin](https://www.linkedin.com/in/vinicius-mattoso/)
 
 
 
 This repository contains the material produced to exercise the knowledge acquired during the MBA BI-Master classes at PUC-Rio (https://ica.puc-rio.ai/es/bi-master-es/), throughout online courses, reading books and articles and personal projects.
 
-Contents:
-
-Exploratory data analysis;
-Plots tutorial for categorical variables;
-Plots tutorial for numeric variables;
-How to handle missing values;
-Statistical inferences from the data.
+Repository talks about: Exploratory data analysis; Plots tutorial for categorical variables; Plots tutorial for numeric variables; How to handle missing values; Statistical inferences from the data.
 
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    :construction: Repository under construction  :construction:
 </h4>
 
 Folder Segmentation:

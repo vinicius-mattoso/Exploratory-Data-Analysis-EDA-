@@ -22,13 +22,23 @@ Folder Segmentation:
 
 Exploratory analysis:
 
+[Badge in development](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-)
+
 Plots tutorial for categorical variables:
+
 [Wine quality](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-/tree/main/Wine_Quality)
 
 Plots tutorial for numeric variables:
-![Badge em Desenvolvimento](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-)
 
+[Badge in development](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-)
 
+How to handle missing values:
+
+[Badge in development](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-)
+
+Statistical inferences from the data:
+
+[Badge in development](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-)
 
 
 

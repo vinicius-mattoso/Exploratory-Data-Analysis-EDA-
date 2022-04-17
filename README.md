@@ -15,7 +15,9 @@ Folder Segmentation:
 Exploratory analysis:
 
 [Alcohol_Consumption_in_Russia](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-/tree/main/Alcohol_Consumption_in_Russia)
+
 [Memory_Test_on_Drugged_Islanders](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-/tree/main/Memory_Test_on_Drugged_Islanders)
+
 [Wine quality](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-/tree/main/Wine_Quality)
 
 Plots tutorial for categorical variables:
@@ -25,11 +27,12 @@ Plots tutorial for categorical variables:
 Plots tutorial for numeric variables:
 
 [Wine quality](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-/tree/main/Wine_Quality)
+
 [Tutorial_Plots](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-/tree/main/Tutorial_Plots)
 
 How to handle missing values:
 
-[Badge in development](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-)
+[Handling_Missing_Values](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-/tree/main/Handling_Missing_Values)
 
 Statistical inferences from the data:
 

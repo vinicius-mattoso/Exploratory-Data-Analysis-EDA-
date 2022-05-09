@@ -12,6 +12,9 @@ Repository talks about: Exploratory data analysis; Plots tutorial for categorica
 
 Folder Segmentation:
 
+[Class Material](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-/tree/main/Class%20Material)
+
+
 Exploratory analysis:
 
 [Alcohol_Consumption_in_Russia](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-/tree/main/Alcohol_Consumption_in_Russia)

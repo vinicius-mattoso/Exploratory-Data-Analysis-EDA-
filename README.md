@@ -42,9 +42,8 @@ Statistical inferences from the data:
 [Badge in development](https://github.com/vinicius-mattoso/Exploratory-Data-Analysis-EDA-)
 
 
-
 ## Autor
-| [<img src="https://user-images.githubusercontent.com/74414640/162084528-0899a715-bcf2-47e5-976d-e0cd01f6029e.png" width=115><br><sub>Vinicius Mattoso</sub>](https://www.linkedin.com/in/vinicius-mattoso/) |  
+| [<img src="https://user-images.githubusercontent.com/74414640/167328751-8cdcac06-b869-42be-82fc-893913abbd21.png" width=120><br><sub>Vinicius Mattoso</sub>](https://www.linkedin.com/in/vinicius-mattoso/)|  
 | :---: |
 Contacts: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-mattoso/)](https://www.linkedin.com/in/vinicius-mattoso/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmatoso@lmmp.mec.puc-rio.br)](mailto:vmatoso@lmmp.mec.puc-rio.br)
 

@@ -49,7 +49,7 @@ Statistical inferences from the data:
 Contacts: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-mattoso/)](https://www.linkedin.com/in/vinicius-mattoso/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmatoso@lmmp.mec.puc-rio.br)](mailto:vmatoso@lmmp.mec.puc-rio.br)
 
 ## Teacher
-| [<img src=![11425838](https://user-images.githubusercontent.com/74414640/167326958-5d1512f6-c969-4618-97ea-6e880dca92da.jpg) width=115><br><sub> Manoela Kohler </sub>](https://www.linkedin.com/in/vinicius-mattoso/) |  
+| [<img src="https://user-images.githubusercontent.com/74414640/167327273-69e5e289-456a-40ee-bb37-2bd1fd699538.jpg" width=115><br><sub> Manoela Kohler </sub>](https://www.linkedin.com/in/manoelakohler/) |  
 | :---: |
 Contacts: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoelakohler/)](https://www.linkedin.com/in/manoelakohler/)
 
